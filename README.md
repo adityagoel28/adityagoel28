@@ -23,6 +23,7 @@ I have built a functional <b> Hotel Booking website </b> during my first year gr
 I am also interested in ethical hacking and also practices that from time to time. <br> 
 I am currently learning Javascript.
 
+![](https://komarev.com/ghpvc/?username=adityagoel28)
 ## ✉️ Find me on:
 
 <p align="center">
