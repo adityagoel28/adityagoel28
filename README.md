@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-My name is Aditya Goel 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in web development, both front end and back-end.
-I have built a functional <b> Hotel Booking website </b> during my first year group project. Even after the course evaluation, I add some extra features to the website. <br>
+My name is Aditya Goel 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in full-stack development.
+I have built many full-stack websites till now. I have also explored the vast field of Data Sciene and Machine Learning.<br>
 I am also interested in ethical hacking and also practices that from time to time. <br> 
-I am currently learning Javascript.
 
 ![](https://komarev.com/ghpvc/?username=adityagoel28)
 ## ✉️ Find me on:
