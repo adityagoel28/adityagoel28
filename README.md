@@ -58,6 +58,16 @@ I am also interested in ethical hacking and also practices that from time to tim
 ## My GitHub Stats
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight)
+<p float="left">
+
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight)
+
+ ![image](https://leetcode-stat-api.herokuapp.com/adityag28/theme=dark)
+  -->
+ <img src="https://github-readme-stats.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight" />
+ 
+ <img align="right" src="https://leetcode-stat-api.herokuapp.com/adityag28/theme=dark" />
+ 
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagoel28&theme=tokyonight)
