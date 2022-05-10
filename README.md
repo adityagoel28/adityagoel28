@@ -55,7 +55,7 @@ I am also interested in ethical hacking and also practices that from time to tim
 
 <br />
 
-## My GitHub Stats
+## My GitHub and LeetCode Stats
 <br />
 
 <p float="left">
