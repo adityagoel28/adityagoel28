@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-My name is Aditya Goel 😄. I am currently pursuing Data Science and Artificial Intelligence(DSAI) as a part of my B.Tech. I am very much interested in full-stack development.
-I have built many full-stack websites till now. I have also explored the vast field of Data Sciene and Machine Learning.<br>
-I am also interested in ethical hacking and also practices that from time to time. <br> 
+Hello, I'm Aditya Goel😄 and I'm currently studying Data Science and Artificial Intelligence as part of my B.Tech degree. In addition to my studies, I have developed a strong passion for full-stack web development and have gained experience with a variety of technologies, including Python (Django), Tkinter, JavaScript, React.js, three.js, SQL, and cloud services such as AWS.
+<br><br>
+I am excited about the potential for data science and AI to improve and transform industries, and I am dedicated to continuing my learning and growth in these fields. In my free time, I am also exploring devops as a way to further enhance my skillset. Thank you for visiting my profile. Please don't hesitate to reach out if you have any questions or projects you'd like to discuss! 
 
 ![](https://komarev.com/ghpvc/?username=adityagoel28)
 ## ✉️ Find me on:
