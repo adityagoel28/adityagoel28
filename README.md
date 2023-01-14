@@ -64,10 +64,10 @@ I am excited about the potential for data science and AI to improve and transfor
 
  ![image](https://leetcode-stat-api.herokuapp.com/adityag28/theme=dark)
   -->
- <img src="github-readme-stats-lzzgs.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight" />
+ <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight" />
  
  <img align="right" src="https://leetcode-stat-api.herokuapp.com/adityag28/theme=dark" />
 
 </p>
 
-![Top Langs](github-readme-stats-lzzgs.vercel.app/api/top-langs/?username=adityagoel28&theme=tokyonight)
+![Top Langs](https://github-readme-stats-lzzgs.vercel.app/api/top-langs/?username=adityagoel28&theme=tokyonight)
