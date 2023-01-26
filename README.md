@@ -64,7 +64,7 @@ I am excited about the potential for data science and AI to improve and transfor
 
  <img src="https://github-readme-stats-lzzgs.vercel.app/api?username=adityagoel28&show_icons=true&theme=tokyonight" />
 
- <img align = "right" src="https://leetcard.jacoblin.cool/adityag28?theme=dark" />
+ <img src="https://leetcard.jacoblin.cool/adityag28?theme=dark" />
 </p>
 
 ![Top Langs](https://github-readme-stats-lzzgs.vercel.app/api/top-langs/?username=adityagoel28&theme=tokyonight)
