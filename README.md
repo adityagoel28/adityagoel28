@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-Hello, I'm Aditya Goel😄 and I'm currently studying Data Science and Artificial Intelligence as part of my B.Tech degree. In addition to my studies, I have developed a strong passion for full-stack web development and have gained experience with a variety of technologies, including Python (Django), Tkinter, JavaScript, React.js, three.js, SQL, and cloud services such as AWS.
+Hi, my name is Aditya Goel 😄 and I am currently pursuing a B.Tech degree in Data Science and Artificial Intelligence. As a full-stack web developer, I have gained extensive experience in a range of tech stacks, including Python (Django), Tkinter, JavaScript, React.js, three.js, SQL, and cloud services such as AWS. I am passionate about both web development and the field of data science and AI, and I am dedicated to continuing my learning and growth in these areas.
 <br><br>
 I am excited about the potential for data science and AI to improve and transform industries, and I am dedicated to continuing my learning and growth in these fields. In my free time, I am also exploring devops as a way to further enhance my skillset. Thank you for visiting my profile. Please don't hesitate to reach out if you have any questions or projects you'd like to discuss! 
 
@@ -26,31 +26,32 @@ I am excited about the potential for data science and AI to improve and transfor
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/aditya-goel-2803/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:adityagoel2002@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/aditya-goel-2803/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/91aead83-d5b5-4fcc-b53c-878c1b942a3e" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px;"></a> &nbsp;&nbsp;
+ <a href="mailto:adityagoel2002@gmail.com"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7549da4a-74f6-4c99-81f8-bb7a8b6e8ef1" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;
+ <a href="https://www.adityagoel.dev" target="_blank"> <img src="https://github.com/adityagoel28/adityagoel28/assets/67872867/7e40da2a-eaa7-4dcc-936c-b01b9e7f5969" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
 
 ## 🧰 Languages:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="60" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
+<!--  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/airflow/airflow.png" alt="Airflow" height="60" style="vertical-align:top; margin:4px"> -->
 </p>
 <br />
 
 ## Frameworks/ Libraries:
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="60" style="vertical-   align:top; margin:4px">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="60" style="vertical-   align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="60" style="vertical-align:top; margin:4px">
-<!--   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/three/three.png" alt="Three js" height="60" style="vertical-align:top; margin:4px"> -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="60"     style="vertical-align:top; margin:4px">
+<!--  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/threejs/threejs.png" alt="Three js" height="60" style="vertical-align:top; margin:4px"> -->
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwind" height="60" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
