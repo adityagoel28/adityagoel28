@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-Hi, my name is Aditya Goel 😄 and I am currently pursuing a B.Tech degree in Data Science and Artificial Intelligence. As a full-stack web developer, I have gained extensive experience in a range of tech stacks, including Python (Django), Tkinter, JavaScript, React.js, three.js, SQL, and cloud services such as AWS. I am passionate about both web development and the field of data science and AI, and I am dedicated to continuing my learning and growth in these areas.
+Hi, my name is Aditya Goel 😄 and I am a Data Science and AI grad. As a full-stack developer, I have gained extensive experience in a range of tech stacks, including Python, Django, JavaScript, React.js, three.js, SQL, AWS< Jenkins and Terraform.‣ I have a strong interest in areas such as Backend Development, Cloud Development, Data engineering and AI domain and I am dedicated to continuing my learning and growth in these areas.
 <br><br>
 I am excited about the potential for data science and AI to improve and transform industries, and I am dedicated to continuing my learning and growth in these fields. In my free time, I am also exploring devops as a way to further enhance my skillset. Thank you for visiting my profile. Please don't hesitate to reach out if you have any questions or projects you'd like to discuss! 
 
